@@ -13,3 +13,9 @@ In order to prepare the bakery products, the employee must allow enough time to 
 6. Performance check
 7. Futher optimizations
 
+**Exploratory Data Analysis**
+- Yearly seasons exists but are different for location types
+    - e.g. Yearly trend of a store next to school vs shopping mall
+- Weekly seasons exists where sales get higher as weekend gets closer
+- Daily trend exists especially for stores near public transportations where there are more repeated customers
+- 
