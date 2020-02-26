@@ -1,2 +1,5 @@
 /data/*.csv
-src/.ipynb_checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+
