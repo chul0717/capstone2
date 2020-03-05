@@ -2,5 +2,6 @@
 /.ipynb_checkpoints/*
 /.ipynb_checkpoints
 /data/*.csv
+/src/pickle_files
 
 
